@@ -29,7 +29,7 @@ function oblicz() {
     
      var okresKapitalizacji = parseInt(document.getElementById('okres-kapitalizacji').value);
     
-     var oprocenowanie = parseInt(document.getElementById('oprocentowanie').value)/100;
+     var oprocentowanie = parseInt(document.getElementById('oprocentowanie').value)/100;
     
     var podatek = document.getElementById('podatek').checked
     
